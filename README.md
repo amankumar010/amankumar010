@@ -1,4 +1,4 @@
-![logo](https://github.com/amankumar010/Aman_Kumar/blob/Master/20210430_005020.jpg)
+![logo](https://github.com/amankumar010/amankumar010/blob/Master/20210430_005020.jpg)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
